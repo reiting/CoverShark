@@ -47,6 +47,31 @@
 }
 .background {
   background-image: url('images/coversharks-web-hero.jpg');
-  height: 50em;
+  height: 40em;
   background-size: cover;
+}
+.first-section h1 {
+  margin-top: 2em;
+  color: white;
+  margin-left: 1em;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 800;
+  background-color: deepskyblue;
+  text-align: center;
+  font-size: 3.5em;
+}
+.first-section p {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  margin-left: 5em;
+}
+.first-section button {
+  background-color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+  margin-left: 5em;
+}
+.first-section img {
+  height: 40em;
 }
