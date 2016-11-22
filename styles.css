@@ -168,3 +168,12 @@
   text-align: center;
   color: darkgray;
 }
+.fourth-section h3 {
+  color: deepskyblue;
+  text-align: center;
+}
+.fourth-section input {
+  display: inline-block;
+  width: 40%;
+  margin: auto;
+}
