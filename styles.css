@@ -48,8 +48,10 @@
 .background {
   background-image: url('images/coversharks-web-hero.jpg'), url('images/bkgrnd.svg');
   z-index: -1;
-  height: 40em;
   background-size: cover;
+}
+.first-section {
+  max-height: 100%;
 }
 .first-section h1 {
   margin-top: 2em;
@@ -171,9 +173,4 @@
 .fourth-section h3 {
   color: deepskyblue;
   text-align: center;
-}
-.fourth-section input {
-  display: inline-block;
-  width: 40%;
-  margin: auto;
 }
